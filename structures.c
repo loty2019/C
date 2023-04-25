@@ -1,20 +1,3 @@
-/*
-    Lorenzo Orio
-    April 18, 2023
-    Approach:
-        1. define struct
-        2. declare variables
-        3. get number of doctors
-        4. get doctors data
-        5. get number of queries
-        6. get queries
-        7. loop through doctors
-        8. compare query to the doctor's specialization
-        9. print result
-    Problems
-     none
-*/
-
 #include <stdio.h>
 #include <string.h>
 

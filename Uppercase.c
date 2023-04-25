@@ -1,19 +1,3 @@
-/*
-    Lorenzo Orio
-    April 18, 2023
-    Approach:
-        1. function to convert a string to uppercase
-        2. check if string is empty
-        3. print uppercase character
-        4. call function recursively
-        5. create main function
-        6. declare variables
-        7. get string
-        8. print uppercase string
-    Problems
-     none
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

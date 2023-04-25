@@ -1,18 +1,3 @@
-/*
-    Lorenzo Orio
-    April 18, 2023
-    Approach:
-        1. define struct
-        2. declare variables
-        3. get student name
-        4. get marks
-        5. calculate total
-        6. calculate grade
-        7. print results
-    Problems
-     none
-*/
-
 #include <stdio.h>
 
 // define struct
